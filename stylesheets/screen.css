@@ -1,3 +1,8 @@
-img.photo  { margin: 0px auto; }
-div#main   { text-align: center; }
-div#header { margin: 12px; text-align: center; }
+body              { }
+img.photo         { margin: 0px auto; }
+h1.title          { }
+div#main          { text-align: center; }
+div#header        { margin: 12px; text-align: center; }
+div#content_block { width: 750px; margin: 0px auto; text-align: left; }
+div#content       { float: left; width: 450px; }
+div#sidebar       { float: left; width: 250px; }
